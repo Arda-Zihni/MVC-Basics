@@ -4,7 +4,7 @@
 -- ************************************************************
 -- Versie       Datum           Auteur              Omschrijving
 -- ******       *****           ******              ************
--- 01           10-02-2026      Hussein Kadhim    Smartphones
+-- 01           10-02-2026      ArdaZ    Smartphones
 -- ************************************************************
 
 -- Verwijder database MVC_Basics_2509AB
@@ -22,7 +22,7 @@ USE `MVC_Basics_2509AB`;
 -- ************************************************************
 -- Versie       Datum           Auteur              Omschrijving
 -- ******       *****           ******              ************
--- 01           10-02-2026      Hussein Kadhim    Tabel Smartphones
+-- 01           10-02-2026      ArdaZ    Tabel Smartphones
 -- ************************************************************
 
 -- Onderstaande velden toevoegen aan de tabel Smartphones
